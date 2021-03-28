@@ -5,7 +5,7 @@ I'm a Web Developer from South Korea 🇰🇷, **24 years old**.
 
 **A book lover** 📕, **an aspiring traveler** ✈️ and **MARVEL** 🎬 fan. 
 
-* 💼 I’m pursuing a Bachelor's degree in Software Engineering.
+* 💼 I graduated from university with a major in Software Engineering.
 * 🎯 Try to consider UI/UX, code readability and scalability.
 * 📚 Learn any tecnology that apears on my way.
 
