@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Eunsu Kimㅤㅤ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunsukimme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---- 
 
-I'm a Web Developer from South Korea 🇰🇷, **24 years old**. 
+I'm a Web Developer from South Korea 🇰🇷, **25 years old**. 
 
 **A book lover** 📕, **an aspiring traveler** ✈️ and **MARVEL** 🎬 fan. 
 
