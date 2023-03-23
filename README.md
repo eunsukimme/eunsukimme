@@ -7,7 +7,7 @@ I'm a Web Developer from South Korea 🇰🇷, **26 years old**.
 
 * 💼 I graduated from university with a major in Software Engineering.
 * 🎯 Try to consider UI/UX, code readability and scalability.
-* 📚 Learn any tecnology that apears on my way.
+* 📚 Learn any technology that apears on my way.
 
 ----
 
